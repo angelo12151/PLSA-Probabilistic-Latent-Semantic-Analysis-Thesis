@@ -57,4 +57,9 @@ Dove:
 * Hofmann, T. (2001). *Unsupervised learning by probabilistic latent semantic analysis*.
 * Eckart, C., & Young, G. (1936). *The approximation of one matrix by another of lower rank*.
 
+---
+
+## 📚 Materiale del Progetto
+* 📄 **Tesi Completa:** [Visualizza il PDF](./Tesi_Probabilistic_Latent_Semantic_Indexing.pdf) 
+* 📽️ **Slide di Presentazione:** [Visualizza le Slide](./Presentazione%20Probabilistic%20Latent%20Semantic%20Indexing.pdf) 
 
