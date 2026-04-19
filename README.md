@@ -57,7 +57,4 @@ Dove:
 * Hofmann, T. (2001). *Unsupervised learning by probabilistic latent semantic analysis*.
 * Eckart, C., & Young, G. (1936). *The approximation of one matrix by another of lower rank*.
 
----
 
-## 📜 Licenza
-Questo progetto è distribuito per fini accademici e di consultazione.
