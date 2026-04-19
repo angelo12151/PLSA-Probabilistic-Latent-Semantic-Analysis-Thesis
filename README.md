@@ -60,6 +60,6 @@ Dove:
 ---
 
 ## 📚 Materiale del Progetto
-* 📄 **Tesi Completa:** [Visualizza il PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/angelo12151/PLSA-Probabilistic-Latent-Semantic-Analysis-Thesis/main/Tesi_Probabilistic_Latent_Semantic_Indexing.pdf)) 
-* 📽️ **Slide di Presentazione:** [Visualizza le Slide](./Presentazione%20Probabilistic%20Latent%20Semantic%20Indexing.pdf) 
+* 📄 **Tesi Completa:** [Visualizza il PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/angelo12151/PLSA-Probabilistic-Latent-Semantic-Analysis-Thesis/main/Tesi_Probabilistic_Latent_Semantic_Indexing.pdf) 
+* 📽️ **Slide di Presentazione:** [Visualizza le Slide](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/angelo12151/PLSA-Probabilistic-Latent-Semantic-Analysis-Thesis/main/Presentazione%20Probabilistic%20Latent%20Semantic%20Indexing.pdf) 
 
